@@ -37,7 +37,7 @@ I enjoy designing clean architectures, writing maintainable code, and turning id
 ---
 
 ## 🏗 What I Build
-- Full-stack web applications
+- Full-stack web AI applications
 - REST API services
 - Database-driven systems
 - Blockchain-integrated apps (where needed)
