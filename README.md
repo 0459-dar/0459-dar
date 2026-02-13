@@ -22,7 +22,7 @@ I enjoy designing clean architectures, writing maintainable code, and turning id
 ## 🧠 Technical Skills
 
 ### 🔹 Languages
-`JavaScript` · `TypeScript` · `Python` · `Rust`
+`JavaScript` · `TypeScript` · `Python` · `java`
 
 ### 🔹 Frontend
 `React` · `Next.js` · `TailwindCSS` · `HTML` · `CSS`
@@ -30,9 +30,6 @@ I enjoy designing clean architectures, writing maintainable code, and turning id
 ### 🔹 Backend
 `Node.js` · `Express` · `REST APIs`  
 `MongoDB` · `PostgreSQL`
-
-### 🔹 Web3 (If Applicable)
-`Solana` · `Anchor` · `Web3.js`
 
 ### 🔹 Tools
 `Git` · `Docker` · `Postman` · `VS Code`
@@ -46,18 +43,6 @@ I enjoy designing clean architectures, writing maintainable code, and turning id
 - Blockchain-integrated apps (where needed)
 
 ---
-
-<div align="center">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
-
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=0459-dar&theme=dark&background=000000" alt="GitHub streak" />
