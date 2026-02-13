@@ -6,7 +6,7 @@
 </h1>
 
 <h3 align="center">
-  Full Stack Developer | ai/ml Engineer
+  Full Stack Developer | AI/ML Engineer
 </h3>
 
 ---
